@@ -1,0 +1,1 @@
+execute as @a run function too_expensive_remover:affect_entire_inventory

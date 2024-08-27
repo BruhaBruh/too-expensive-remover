@@ -1,0 +1,1 @@
+function too_expensive_remover:affect_all_player_inventory
